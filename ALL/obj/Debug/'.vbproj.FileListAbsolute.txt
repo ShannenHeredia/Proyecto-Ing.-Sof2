@@ -1,0 +1,6 @@
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Cobra.exe.config
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Interop.JRO.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\'.vbproj.ResolveComReference.cache
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Cobra.exe
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Cobra.xml
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Cobra.pdb

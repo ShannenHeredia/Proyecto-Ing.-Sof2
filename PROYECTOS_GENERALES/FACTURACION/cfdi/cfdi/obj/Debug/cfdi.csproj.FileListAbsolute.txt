@@ -1,0 +1,18 @@
+C:\Tmp\cfdi\cfdi\bin\Debug\cfdi.dll
+C:\Tmp\cfdi\cfdi\bin\Debug\cfdi.pdb
+C:\Tmp\cfdi\cfdi\obj\Debug\cfdi.dll
+C:\Tmp\cfdi\cfdi\obj\Debug\cfdi.pdb
+C:\Tmp\cfdi\cfdi\bin\Debug\cfdi.dll.config
+C:\Tmp\cfdi\cfdi\obj\Debug\cfdi.csprojResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\FACTURACION\cfdi\cfdi\bin\Debug\cfdi.dll.config
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\FACTURACION\cfdi\cfdi\bin\Debug\cfdi.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\FACTURACION\cfdi\cfdi\bin\Debug\cfdi.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\FACTURACION\cfdi\cfdi\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\FACTURACION\cfdi\cfdi\obj\Debug\cfdi.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\FACTURACION\cfdi\cfdi\obj\Debug\cfdi.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 FACT\FACTURACION\cfdi\cfdi\bin\Debug\cfdi.dll.config
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 FACT\FACTURACION\cfdi\cfdi\bin\Debug\cfdi.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 FACT\FACTURACION\cfdi\cfdi\bin\Debug\cfdi.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 FACT\FACTURACION\cfdi\cfdi\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 FACT\FACTURACION\cfdi\cfdi\obj\Debug\cfdi.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 FACT\FACTURACION\cfdi\cfdi\obj\Debug\cfdi.pdb

@@ -1,0 +1,60 @@
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.exe
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.pdb
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.dll
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.pdb
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.MainForm.resources
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.Properties.Resources.resources
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.csproj.GenerateResource.Cache
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.exe
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.pdb
+C:\Users\Israel Gallegos\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.exe
+C:\Users\Israel Gallegos\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.pdb
+C:\Users\Israel Gallegos\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.dll
+C:\Users\Israel Gallegos\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.pdb
+C:\Users\Israel Gallegos\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Israel Gallegos\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.MainForm.resources
+C:\Users\Israel Gallegos\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.Properties.Resources.resources
+C:\Users\Israel Gallegos\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.csproj.GenerateResource.Cache
+C:\Users\Israel Gallegos\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.exe
+C:\Users\Israel Gallegos\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.pdb
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.exe
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.pdb
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.dll
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.pdb
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.MainForm.resources
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.Properties.Resources.resources
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.exe
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.exe
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.MainForm.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.Properties.Resources.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.csproj.GenerateResource.Cache
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.exe
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.pdb
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.exe
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.pdb
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.pdb
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.MainForm.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.Properties.Resources.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.csproj.GenerateResource.Cache
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.exe
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.pdb
+\\vmware-host\Shared Folders\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.exe
+\\vmware-host\Shared Folders\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\ConvertPDF.pdb
+\\vmware-host\Shared Folders\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.dll
+\\vmware-host\Shared Folders\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\bin\x86\Debug\PdfToImage.pdb
+\\vmware-host\Shared Folders\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.MainForm.resources
+\\vmware-host\Shared Folders\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\PdfToImage.Properties.Resources.resources
+\\vmware-host\Shared Folders\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.exe
+\\vmware-host\Shared Folders\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\ConvertPDF\obj\x86\Debug\ConvertPDF.pdb

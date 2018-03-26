@@ -1,0 +1,6 @@
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\PdfToImage\bin\x86\Release\PdfToImage.dll
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\PdfToImage\obj\x86\Release\ResolveAssemblyReference.cache
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\PdfToImage\obj\x86\Release\PdfToImage.dll
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\PdfToImage\bin\x86\Release\PdfToImage.dll
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\PdfToImage\obj\x86\Release\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\PDF_Convert\PdfToImage\obj\x86\Release\PdfToImage.dll

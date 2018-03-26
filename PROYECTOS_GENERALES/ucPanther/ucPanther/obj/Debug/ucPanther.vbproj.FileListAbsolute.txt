@@ -1,0 +1,12 @@
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\RoundedTextbox\obj\Debug\RoundedTextbox.exe
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\RoundedTextbox\obj\Debug\RoundedTextbox.xml
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\RoundedTextbox\obj\Debug\RoundedTextbox.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\ucPanther\obj\Debug\RoundedTextbox.exe
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\ucPanther\obj\Debug\RoundedTextbox.xml
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\ucPanther\obj\Debug\RoundedTextbox.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\ucPanther\bin\Debug\RoundedTextbox.exe
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\ucPanther\bin\Debug\RoundedTextbox.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\ucPanther\bin\Debug\RoundedTextbox.xml
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\ucPanther\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\ucPanther\obj\Debug\RoundedTextbox.Resources.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\ucPanther\ucPanther\obj\Debug\ucPanther.vbproj.GenerateResource.Cache

@@ -1,0 +1,457 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C53C53D1-3B30-4483-8226-5DAA2158F603}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ControlAsistencias.My.MyApplication</StartupObject>
+    <RootNamespace>ControlAsistencias</RootNamespace>
+    <AssemblyName>ControlAsistencias</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>Off</OptionExplicit>
+    <ApplicationIcon>Panther15.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <ManifestCertificateThumbprint>F3A8FE0AFE33EE906A846487A7F854C1AA32E787</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Panther_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>true</GenerateManifests>
+    <SignManifests>true</SignManifests>
+    <PublishUrl>ftp://pantherwise%40panther-one.com/</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>6</ApplicationRevision>
+    <ApplicationVersion>15.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <AdditionalParameters>
+    </AdditionalParameters>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <PlatformTarget>x86</PlatformTarget>
+    <AdditionalParameters>
+    </AdditionalParameters>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="adodb, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="DevComponents.DotNetBar.Schedule, Version=11.0.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevComponents.DotNetBar.Schedule.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=11.0.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.Instrumentation, Version=11.0.0.0, Culture=neutral, PublicKeyToken=bc4a9d761ea44ef0, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevComponents.Instrumentation.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v9.2.Core, Version=9.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevExpress.Charts.v9.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v9.2, Version=9.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevExpress.Data.v9.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v9.2, Version=9.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevExpress.Utils.v9.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v9.2, Version=9.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevExpress.XtraBars.v9.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v9.2, Version=9.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevExpress.XtraCharts.v9.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v9.2, Version=9.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevExpress.XtraEditors.v9.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v9.2, Version=9.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevExpress.XtraPivotGrid.v9.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPivotGrid.v9.2.Core, Version=9.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevExpress.XtraPivotGrid.v9.2.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v9.2, Version=9.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevExpress.XtraPrinting.v9.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v9.2, Version=9.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevExpress.XtraReports.v9.2.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v9.2.Design, Version=9.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\DevExpress.XtraTreeList.v9.2.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.Compatibility" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\REFERENCIAS\Microsoft.VisualBasic.PowerPacks.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.5.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="PdfToImage, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\PROYECTOS_GENERALES\PDF_Convert\PdfToImage\bin\Debug\PdfToImage.dll</HintPath>
+    </Reference>
+    <Reference Include="Sentinela, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\PROYECTOS_GENERALES\Sentinela\bin\Debug\Sentinela.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Web.Extensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="PdfPageTools">
+      <HintPath>..\PROYECTOS_GENERALES\PDF_Convert\PdfPageTools\bin\Debug\PdfPageTools.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ApplicationEvents.vb" />
+    <Compile Include="Clases\cServidor.vb" />
+    <Compile Include="Clases\Idiomas\Idioma_pt.Designer.vb" />
+    <Compile Include="IU\frmPersonas.Designer.vb">
+      <DependentUpon>frmPersonas.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\frmPersonas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\frmCarreras.Designer.vb">
+      <DependentUpon>frmCarreras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\frmCarreras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\frmDivision.Designer.vb">
+      <DependentUpon>frmDivision.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\frmDivision.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\frmAltaProfesor.Designer.vb">
+      <DependentUpon>frmAltaProfesor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\frmAltaProfesor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\fMessageBox.Designer.vb">
+      <DependentUpon>fMessageBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\fMessageBox.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\frmReportes.Designer.vb">
+      <DependentUpon>frmReportes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\frmReportes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\frmAsistencias.Designer.vb">
+      <DependentUpon>frmAsistencias.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\frmAsistencias.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\frmAlumnosVisor.Designer.vb">
+      <DependentUpon>frmAlumnosVisor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\frmAlumnosVisor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\frmAltaGrupos.Designer.vb">
+      <DependentUpon>frmAltaGrupos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\frmAltaGrupos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\frmAlta.Designer.vb">
+      <DependentUpon>frmAlta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\frmAlta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IU\frmBuscarPacientes.Designer.vb">
+      <DependentUpon>frmBuscarPacientes.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\frmBuscarPacientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modulos\mdlFunciones.vb" />
+    <Compile Include="Recursos\Skins.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Skins.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptAlumnos.Designer.vb">
+      <DependentUpon>rptAlumnos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptAlumnos.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptDiario.Designer.vb">
+      <DependentUpon>rptDiario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptDiario.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptGrupos.Designer.vb">
+      <DependentUpon>rptGrupos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptGrupos.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes\rptSemestral.Designer.vb">
+      <DependentUpon>rptSemestral.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\rptSemestral.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UICustomControls\ucBotonRC.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UICustomControls\ucLabelLine.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UICustomControls\ucLabelRC.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UICustomControls\ucTextboxLine.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UICustomControls\ucTextboxRC.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IU\frmPrincipal.Designer.vb">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IU\frmPrincipal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Clases\Idiomas\Idioma_pt.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\frmPersonas.resx">
+      <DependentUpon>frmPersonas.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\frmCarreras.resx">
+      <DependentUpon>frmCarreras.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\frmDivision.resx">
+      <DependentUpon>frmDivision.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\frmAltaProfesor.resx">
+      <DependentUpon>frmAltaProfesor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\fMessageBox.resx">
+      <DependentUpon>fMessageBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\frmReportes.resx">
+      <DependentUpon>frmReportes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\frmAsistencias.resx">
+      <DependentUpon>frmAsistencias.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\frmAlumnosVisor.resx">
+      <DependentUpon>frmAlumnosVisor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\frmAltaGrupos.resx">
+      <DependentUpon>frmAltaGrupos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\frmAlta.resx">
+      <DependentUpon>frmAlta.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\frmBuscarPacientes.resx">
+      <DependentUpon>frmBuscarPacientes.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IU\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.vb</DependentUpon>
+      <SubType>Designer</SubType>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <SubType>Designer</SubType>
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Recursos\Skins.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Skins.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptAlumnos.resx">
+      <DependentUpon>rptAlumnos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptDiario.resx">
+      <DependentUpon>rptDiario.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptGrupos.resx">
+      <DependentUpon>rptGrupos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\rptSemestral.resx">
+      <DependentUpon>rptSemestral.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Panther.ico" />
+    <Content Include="Panther15.ico" />
+    <None Include="Resources\PANTHER_11_B.jpg" />
+    <None Include="Resources\GE_Asistencias_80.png" />
+    <None Include="Resources\GE_Alumno_60.png" />
+    <None Include="Resources\GE_Option_On1.png" />
+    <None Include="Resources\GE_Option_On.png" />
+    <None Include="Resources\GE_Option_Off.png" />
+    <None Include="Resources\PANTHER_11.jpg" />
+    <None Include="Resources\GE_Message_Precaucion_60x55.png" />
+    <None Include="Resources\GE_Message_Informacion_60x55.png" />
+    <None Include="Resources\GE_Message_Error_60x55.png" />
+    <None Include="Resources\GE_MisPromociones_Estadisticas_Live_30.png" />
+    <None Include="Resources\GE_Message_Pregunta_60x55.png" />
+    <None Include="Resources\GE_Checked_On_Flat_35x35.png" />
+    <None Include="Resources\GE_Checked_Off_Flat_35x35.png" />
+    <None Include="app.config" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Panther_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="JRO">
+      <Guid>{AC3B8B4C-B6CA-11D1-9F31-00C04FC29D52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>6</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

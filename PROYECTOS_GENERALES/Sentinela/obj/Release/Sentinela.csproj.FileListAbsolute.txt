@@ -1,0 +1,67 @@
+C:\DOCUMENTOS\PERSONALES\DESARROLLO\PANTHER\Sentinela\bin\Release\Sentinela.dll
+C:\DOCUMENTOS\PERSONALES\DESARROLLO\PANTHER\Sentinela\bin\Release\Sentinela.pdb
+C:\DOCUMENTOS\PERSONALES\DESARROLLO\PANTHER\Sentinela\obj\Release\ResolveAssemblyReference.cache
+C:\DOCUMENTOS\PERSONALES\DESARROLLO\PANTHER\Sentinela\obj\Release\Sentinela.dll
+C:\DOCUMENTOS\PERSONALES\DESARROLLO\PANTHER\Sentinela\obj\Release\Sentinela.pdb
+C:\ISRA\DESARROLLO\PANTHER\Sentinela\bin\Release\Sentinela.dll
+C:\ISRA\DESARROLLO\PANTHER\Sentinela\bin\Release\Sentinela.pdb
+C:\ISRA\DESARROLLO\PANTHER\Sentinela\obj\Release\ResolveAssemblyReference.cache
+C:\ISRA\DESARROLLO\PANTHER\Sentinela\obj\Release\Sentinela.dll
+C:\ISRA\DESARROLLO\PANTHER\Sentinela\obj\Release\Sentinela.pdb
+I:\PANTHER WILD\Sentinela\bin\Release\Sentinela.dll
+I:\PANTHER WILD\Sentinela\bin\Release\Sentinela.pdb
+I:\PANTHER WILD\Sentinela\obj\Release\ResolveAssemblyReference.cache
+I:\PANTHER WILD\Sentinela\obj\Release\Sentinela.dll
+I:\PANTHER WILD\Sentinela\obj\Release\Sentinela.pdb
+C:\DOCUMENTOS\PERSONALES\PANTHER WILD\Sentinela\bin\Release\Sentinela.dll
+C:\DOCUMENTOS\PERSONALES\PANTHER WILD\Sentinela\bin\Release\Sentinela.pdb
+C:\DOCUMENTOS\PERSONALES\PANTHER WILD\Sentinela\obj\Release\ResolveAssemblyReference.cache
+C:\DOCUMENTOS\PERSONALES\PANTHER WILD\Sentinela\obj\Release\Sentinela.dll
+C:\DOCUMENTOS\PERSONALES\PANTHER WILD\Sentinela\obj\Release\Sentinela.pdb
+D:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\bin\Release\Sentinela.dll
+D:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\bin\Release\Sentinela.pdb
+D:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\obj\Release\ResolveAssemblyReference.cache
+D:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\obj\Release\Sentinela.dll
+D:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\obj\Release\Sentinela.pdb
+D:\Desarrollo\PANTHER Wild\PANTHER WILD\Sentinela\bin\Release\Sentinela.dll
+D:\Desarrollo\PANTHER Wild\PANTHER WILD\Sentinela\bin\Release\Sentinela.pdb
+D:\Desarrollo\PANTHER Wild\PANTHER WILD\Sentinela\obj\Release\ResolveAssemblyReference.cache
+D:\Desarrollo\PANTHER Wild\PANTHER WILD\Sentinela\obj\Release\Sentinela.dll
+D:\Desarrollo\PANTHER Wild\PANTHER WILD\Sentinela\obj\Release\Sentinela.pdb
+C:\PERSONAL\DESARROLLO\Desarrollo\PANTHER Wild\PANTHER WILD\Sentinela\bin\Release\Sentinela.dll
+C:\PERSONAL\DESARROLLO\Desarrollo\PANTHER Wild\PANTHER WILD\Sentinela\bin\Release\Sentinela.pdb
+C:\PERSONAL\DESARROLLO\Desarrollo\PANTHER Wild\PANTHER WILD\Sentinela\obj\Release\ResolveAssemblyReference.cache
+C:\PERSONAL\DESARROLLO\Desarrollo\PANTHER Wild\PANTHER WILD\Sentinela\obj\Release\Sentinela.dll
+C:\PERSONAL\DESARROLLO\Desarrollo\PANTHER Wild\PANTHER WILD\Sentinela\obj\Release\Sentinela.pdb
+C:\Users\Isra\Documents\DESARROLLO\PANTHER Wild\Sentinela\bin\Release\Sentinela.dll
+C:\Users\Isra\Documents\DESARROLLO\PANTHER Wild\Sentinela\bin\Release\Sentinela.pdb
+C:\Users\Isra\Documents\DESARROLLO\PANTHER Wild\Sentinela\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Isra\Documents\DESARROLLO\PANTHER Wild\Sentinela\obj\Release\Sentinela.dll
+C:\Users\Isra\Documents\DESARROLLO\PANTHER Wild\Sentinela\obj\Release\Sentinela.pdb
+H:\DESARROLLO\TIGER\Sentinela\bin\Release\Sentinela.dll
+H:\DESARROLLO\TIGER\Sentinela\bin\Release\Sentinela.pdb
+H:\DESARROLLO\TIGER\Sentinela\obj\Release\ResolveAssemblyReference.cache
+H:\DESARROLLO\TIGER\Sentinela\obj\Release\Sentinela.dll
+H:\DESARROLLO\TIGER\Sentinela\obj\Release\Sentinela.pdb
+C:\Users\Isra\Documents\DESARROLLO\TIGER\Sentinela\bin\Release\Sentinela.dll
+C:\Users\Isra\Documents\DESARROLLO\TIGER\Sentinela\bin\Release\Sentinela.pdb
+C:\Users\Isra\Documents\DESARROLLO\TIGER\Sentinela\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Isra\Documents\DESARROLLO\TIGER\Sentinela\obj\Release\Sentinela.dll
+C:\Users\Isra\Documents\DESARROLLO\TIGER\Sentinela\obj\Release\Sentinela.pdb
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\bin\Release\Sentinela_Panther.pfx
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\bin\Release\Sentinela.dll
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\bin\Release\Sentinela.pdb
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\obj\Release\ResolveAssemblyReference.cache
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\obj\Release\Sentinela.dll
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\obj\Release\Sentinela.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\Sentinela\bin\Release\Sentinela_Panther.pfx
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\Sentinela\bin\Release\Sentinela.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\Sentinela\bin\Release\Sentinela.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\Sentinela\obj\Release\ResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\Sentinela\obj\Release\Sentinela.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\Sentinela\obj\Release\Sentinela.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\Sentinela\bin\Release\Sentinela.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\Sentinela\bin\Release\Sentinela.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\Sentinela\obj\Release\ResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\Sentinela\obj\Release\Sentinela.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\Sentinela\obj\Release\Sentinela.pdb

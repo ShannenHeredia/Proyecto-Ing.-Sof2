@@ -1,0 +1,71 @@
+I:\PANTHER\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+I:\PANTHER\Sentinela\bin\Debug\Sentinela.dll
+I:\PANTHER\Sentinela\bin\Debug\Sentinela.pdb
+I:\PANTHER\Sentinela\obj\Debug\Sentinela.dll
+I:\PANTHER\Sentinela\obj\Debug\Sentinela.pdb
+C:\ISRA\DESARROLLO\PANTHER\Sentinela\bin\Debug\Sentinela.dll
+C:\ISRA\DESARROLLO\PANTHER\Sentinela\bin\Debug\Sentinela.pdb
+C:\ISRA\DESARROLLO\PANTHER\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+C:\ISRA\DESARROLLO\PANTHER\Sentinela\obj\Debug\Sentinela.dll
+C:\ISRA\DESARROLLO\PANTHER\Sentinela\obj\Debug\Sentinela.pdb
+G:\PANTHER\Sentinela\bin\Debug\Sentinela.dll
+G:\PANTHER\Sentinela\bin\Debug\Sentinela.pdb
+G:\PANTHER\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+G:\PANTHER\Sentinela\obj\Debug\Sentinela.dll
+G:\PANTHER\Sentinela\obj\Debug\Sentinela.pdb
+C:\DOCUMENTOS\PERSONALES\DESARROLLO\PANTHER\Sentinela\bin\Debug\Sentinela.dll
+C:\DOCUMENTOS\PERSONALES\DESARROLLO\PANTHER\Sentinela\bin\Debug\Sentinela.pdb
+C:\DOCUMENTOS\PERSONALES\DESARROLLO\PANTHER\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTOS\PERSONALES\DESARROLLO\PANTHER\Sentinela\obj\Debug\Sentinela.dll
+C:\DOCUMENTOS\PERSONALES\DESARROLLO\PANTHER\Sentinela\obj\Debug\Sentinela.pdb
+C:\DOCUMENTOS\PERSONALES\PANTHER\Sentinela\bin\Debug\Sentinela.dll
+C:\DOCUMENTOS\PERSONALES\PANTHER\Sentinela\bin\Debug\Sentinela.pdb
+C:\DOCUMENTOS\PERSONALES\PANTHER\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+C:\DOCUMENTOS\PERSONALES\PANTHER\Sentinela\obj\Debug\Sentinela.dll
+C:\DOCUMENTOS\PERSONALES\PANTHER\Sentinela\obj\Debug\Sentinela.pdb
+C:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\bin\Debug\Sentinela.dll
+C:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\bin\Debug\Sentinela.pdb
+C:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+C:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\obj\Debug\Sentinela.dll
+C:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\obj\Debug\Sentinela.pdb
+I:\PANTHER WILD\Sentinela\bin\Debug\Sentinela.dll
+I:\PANTHER WILD\Sentinela\bin\Debug\Sentinela.pdb
+I:\PANTHER WILD\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+I:\PANTHER WILD\Sentinela\obj\Debug\Sentinela.dll
+I:\PANTHER WILD\Sentinela\obj\Debug\Sentinela.pdb
+D:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\bin\Debug\Sentinela.dll
+D:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\bin\Debug\Sentinela.pdb
+D:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+D:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\obj\Debug\Sentinela.dll
+D:\ISRA\DESARROLLO\PANTHER WILD\Sentinela\obj\Debug\Sentinela.pdb
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\bin\Debug\Sentinela_Panther.pfx
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\bin\Debug\Sentinela.dll
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\bin\Debug\Sentinela.pdb
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\obj\Debug\Sentinela.dll
+D:\PANTHER\DESARROLLO\PANTHER WILD\Sentinela\obj\Debug\Sentinela.pdb
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\bin\Debug\Sentinela.dll
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\bin\Debug\Sentinela.pdb
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\Sentinela.dll
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\Sentinela.pdb
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\bin\Debug\Sentinela.dll
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\bin\Debug\Sentinela.pdb
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\Sentinela.dll
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\Sentinela.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\bin\Debug\Sentinela.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\bin\Debug\Sentinela.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\Sentinela.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\Sentinela.pdb
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\bin\Debug\Sentinela.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\bin\Debug\Sentinela.pdb
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\Sentinela.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\Sentinela\obj\Debug\Sentinela.pdb
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS_GENERALES\Sentinela\bin\Debug\Sentinela.dll
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS_GENERALES\Sentinela\bin\Debug\Sentinela.pdb
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS_GENERALES\Sentinela\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS_GENERALES\Sentinela\obj\Debug\Sentinela.dll
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS_GENERALES\Sentinela\obj\Debug\Sentinela.pdb

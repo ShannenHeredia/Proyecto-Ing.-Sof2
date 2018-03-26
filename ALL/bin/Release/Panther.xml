@@ -1,0 +1,591 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Panther
+</name>
+</assembly>
+<members>
+<member name="F:Panther.cSkins.comSkins">
+	<summary>
+ USER: IG
+ FECHA: 19 diciembre 2015
+ DESCRIPCION: Se modificó la forma de cargar imagenes, se incorporaron carpetas de fotos.
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Panther.frmAgenda.ShowContextMenu(DevComponents.DotNetBar.ButtonItem)">
+	<param name="cm">ContextMenu to show</param>
+</member><member name="M:Panther.cRegistroCloud.sbInsertarEmpresa(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Boolean,System.String)">
+ V15
+
+</member><member name="M:Panther.clsAfiliado.comActualizarCambioMascota(System.Int32,System.Int32)">
+	<summary>
+  Actualizar la mascota con cambio de propietario
+ IG
+ V15
+ </summary>
+	<param name="iCodPacienteTmp"></param>
+	<param name="iCodPropietarioTmp"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Panther.My.Resources.Idioma_pt.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.________________BOTONES_____________________">
+	<summary>
+  Busca una cadena traducida similar a ________________BOTONES_____________________.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt._______________OPTIONS________________">
+	<summary>
+  Busca una cadena traducida similar a _______________OPTIONS________________.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt._____________FORMAS_TITULOS________________">
+	<summary>
+  Busca una cadena traducida similar a _____________FORMAS_TITULOS________________.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.____________FORMAS_SUB_TITULOS_____________">
+	<summary>
+  Busca una cadena traducida similar a ____________FORMAS_SUB_TITULOS_____________.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.___________GRIDS_______________">
+	<summary>
+  Busca una cadena traducida similar a ___________GRIDS_______________.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt._________LABELS_____________">
+	<summary>
+  Busca una cadena traducida similar a _________LABELS_____________.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Agregar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Agregar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Borrar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Borrar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Cerrar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Cerrar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Configurar_Correo">
+	<summary>
+  Busca una cadena traducida similar a &amp;Configurar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Consultar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Consultar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Enviar_Correo">
+	<summary>
+  Busca una cadena traducida similar a &amp;Envíar:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Exportar_Imagen">
+	<summary>
+  Busca una cadena traducida similar a &amp;Exportar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Guardar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Guardar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Imagen">
+	<summary>
+  Busca una cadena traducida similar a &amp;Imagen.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Mensaje_Aceptar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Aceptar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Mensaje_Cancelar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Cancelar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Mensaje_Eliminar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Eliminar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Mensaje_No">
+	<summary>
+  Busca una cadena traducida similar a &amp;No.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Mensaje_Salir">
+	<summary>
+  Busca una cadena traducida similar a &amp;Salir.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Mensaje_Si">
+	<summary>
+  Busca una cadena traducida similar a &amp;Si.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Modificar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Modificar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Nuevo">
+	<summary>
+  Busca una cadena traducida similar a &amp;Nuevo.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Programar_Correo">
+	<summary>
+  Busca una cadena traducida similar a &amp;Programar.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Receta">
+	<summary>
+  Busca una cadena traducida similar a &amp;Receta.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Servicios_Alimentos">
+	<summary>
+  Busca una cadena traducida similar a &amp;Alimentos.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Servicios_Consultas">
+	<summary>
+  Busca una cadena traducida similar a &amp;Consultas.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Servicios_Desparasitacion">
+	<summary>
+  Busca una cadena traducida similar a &amp;Desparasitación.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Servicios_Ectos">
+	<summary>
+  Busca una cadena traducida similar a Ec&amp;toparásitos.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Servicios_Estetica">
+	<summary>
+  Busca una cadena traducida similar a &amp;Estética.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Servicios_Otros">
+	<summary>
+  Busca una cadena traducida similar a &amp;Otros.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Servicios_Vacunas">
+	<summary>
+  Busca una cadena traducida similar a &amp;Vacunas.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Boton_Ver_Imagen">
+	<summary>
+  Busca una cadena traducida similar a &amp;Ver.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Etiqueta_Dueño_Mas_Mascotas">
+	<summary>
+  Busca una cadena traducida similar a &amp;Dueño con más mascotas:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Acerca_De">
+	<summary>
+  Busca una cadena traducida similar a Información.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Agenda">
+	<summary>
+  Busca una cadena traducida similar a Agenda.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Alta_Medico">
+	<summary>
+  Busca una cadena traducida similar a Alta del médico.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Alta_Paciente">
+	<summary>
+  Busca una cadena traducida similar a Alta del paciente.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Catalogos_Color">
+	<summary>
+  Busca una cadena traducida similar a Colores.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Catalogos_Especie">
+	<summary>
+  Busca una cadena traducida similar a Especies y razas.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Citas">
+	<summary>
+  Busca una cadena traducida similar a Citas.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Correos_Citas">
+	<summary>
+  Busca una cadena traducida similar a Envío de citas.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Correos_Configuracion">
+	<summary>
+  Busca una cadena traducida similar a Configuración.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Correos_Ofertas">
+	<summary>
+  Busca una cadena traducida similar a Ofertas.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Desparasitacion">
+	<summary>
+  Busca una cadena traducida similar a Desparasitación.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Ectos">
+	<summary>
+  Busca una cadena traducida similar a Ectoparásitos.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Empresa">
+	<summary>
+  Busca una cadena traducida similar a Clínica.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Estetica_General">
+	<summary>
+  Busca una cadena traducida similar a Estéticas.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Estilistas">
+	<summary>
+  Busca una cadena traducida similar a Estilistas.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Inicio_Perfil">
+	<summary>
+  Busca una cadena traducida similar a Perfil.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Nuevo_Correo">
+	<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Nuevo_Medico">
+	<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Tipo_Configuracion">
+	<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Tipo_Sistema">
+	<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Forma_Vacunas">
+	<summary>
+  Busca una cadena traducida similar a Vacunas.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Correo_Enviado">
+	<summary>
+  Busca una cadena traducida similar a &amp;Enviados.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Correo_Gmail">
+	<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Correo_Otro">
+	<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Correo_Outlook">
+	<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Correo_Por_Enviar">
+	<summary>
+  Busca una cadena traducida similar a &amp;Por envíar:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Correo_Yahoo">
+	<summary>
+  Busca una cadena traducida similar a .
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Dia">
+	<summary>
+  Busca una cadena traducida similar a &amp;Día.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Mascota">
+	<summary>
+  Busca una cadena traducida similar a &amp;Mascota.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Mes">
+	<summary>
+  Busca una cadena traducida similar a &amp;Mes.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Propietario_Apellido">
+	<summary>
+  Busca una cadena traducida similar a &amp;Apellido.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Propietario_Nombre">
+	<summary>
+  Busca una cadena traducida similar a &amp;Nombre.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Propietario_Telefono">
+	<summary>
+  Busca una cadena traducida similar a &amp;Teléfono.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Raza">
+	<summary>
+  Busca una cadena traducida similar a &amp;Raza.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Option_Semana">
+	<summary>
+  Busca una cadena traducida similar a &amp;Semana.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Color">
+	<summary>
+  Busca una cadena traducida similar a &amp;Color:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Especie">
+	<summary>
+  Busca una cadena traducida similar a &amp;Especie:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Fecha_Nac">
+	<summary>
+  Busca una cadena traducida similar a &amp;Fecha nac.:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Foto">
+	<summary>
+  Busca una cadena traducida similar a Fo&amp;to:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Grid_Color">
+	<summary>
+  Busca una cadena traducida similar a Color.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Grid_Especie">
+	<summary>
+  Busca una cadena traducida similar a Especie.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Grid_Fecha_Nac">
+	<summary>
+  Busca una cadena traducida similar a Fecha Nac..
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Grid_Foto">
+	<summary>
+  Busca una cadena traducida similar a Foto.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Grid_Nombre">
+	<summary>
+  Busca una cadena traducida similar a Nombre.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Grid_Observacion">
+	<summary>
+  Busca una cadena traducida similar a Observacion.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Grid_Raza">
+	<summary>
+  Busca una cadena traducida similar a Raza.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Grid_Sexo">
+	<summary>
+  Busca una cadena traducida similar a Sexo.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Nombre">
+	<summary>
+  Busca una cadena traducida similar a &amp;Nombre:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Observacion">
+	<summary>
+  Busca una cadena traducida similar a &amp;Observación:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Raza">
+	<summary>
+  Busca una cadena traducida similar a &amp;Raza:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Paciente_Sexo">
+	<summary>
+  Busca una cadena traducida similar a &amp;Sexo:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Colonia">
+	<summary>
+  Busca una cadena traducida similar a &amp;Colonia:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Correo">
+	<summary>
+  Busca una cadena traducida similar a Co&amp;rreo:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_CP">
+	<summary>
+  Busca una cadena traducida similar a &amp;C.P.:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Direccion">
+	<summary>
+  Busca una cadena traducida similar a &amp;Dirección:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Grid_Colonia">
+	<summary>
+  Busca una cadena traducida similar a Colonia.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Grid_Correo">
+	<summary>
+  Busca una cadena traducida similar a Correo.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Grid_CP">
+	<summary>
+  Busca una cadena traducida similar a C.P..
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Grid_Direccion">
+	<summary>
+  Busca una cadena traducida similar a Dirección.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Grid_Materno">
+	<summary>
+  Busca una cadena traducida similar a Materno.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Grid_Nombre">
+	<summary>
+  Busca una cadena traducida similar a Nombre.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Grid_Paterno">
+	<summary>
+  Busca una cadena traducida similar a Paterno.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Grid_Tel">
+	<summary>
+  Busca una cadena traducida similar a Teléfono.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Grid_Tel2">
+	<summary>
+  Busca una cadena traducida similar a Tel 2..
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Materno">
+	<summary>
+  Busca una cadena traducida similar a A. &amp;Materno:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Nombre">
+	<summary>
+  Busca una cadena traducida similar a No&amp;mbre:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Paterno">
+	<summary>
+  Busca una cadena traducida similar a A. &amp;Paterno:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Tel">
+	<summary>
+  Busca una cadena traducida similar a &amp;Tel:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Propietario_Tel2">
+	<summary>
+  Busca una cadena traducida similar a T&amp;el2:.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Titulo_Dueño">
+	<summary>
+  Busca una cadena traducida similar a Dueño.
+</summary>
+</member><member name="P:Panther.My.Resources.Idioma_pt.Titulo_Mascota">
+	<summary>
+  Busca una cadena traducida similar a Mascota.
+</summary>
+</member><member name="T:Panther.My.Resources.Idioma_pt">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="P:Panther.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Panther.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:Panther.My.Resources.Resources">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="M:Panther.clsCalendario.comActualizar_Agenda_Fecha_Hora(System.Int32@,System.DateTime,System.DateTime,System.String)">
+	<summary>
+ Actualización de la Agenda Version Dinámica 15
+ AUTOR: IGH
+ FECHA: 2016-02-05
+ </summary>
+	<param name="iCodCalendario"></param>
+	<param name="dtFechaIni"></param>
+	<param name="dtFechaFin"></param>
+	<param name="sHoraTmp"></param>
+	<remarks></remarks>
+</member><member name="F:Panther.cCuentaCliente.iCodTipoProducto">
+ VARIABLES PRODUCTOS 
+ RM
+
+</member><member name="M:Panther.cCuentaCliente.comActualizarStockProductos(System.Int32)">
+	<summary>
+ TODO migrar a RelProductos comActualizarStockProductos
+ </summary>
+	<param name="iTipoAux"></param>
+	<remarks></remarks>
+</member><member name="F:Panther.mdlConstantes.piCANIDEO">
+	<summary>
+ USER: Elias
+ FECHA: 19 diciembre 2015
+ DESCRIPCION: Modificaciones de razas.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Panther.mdlConstantes.piCUENTA_LIQUIDADA">
+ ABONOS
+
+</member><member name="F:Panther.mdlConstantes.piCAJA_SIN_ABRIR">
+ CAJA
+
+</member><member name="M:Panther.frmLaboratorios.FindDirectory(System.Object,System.EventArgs)">
+	<summary>When press browse if i choose something display it!</summary>
+	<param name="sender"></param><param name="e"></param>
+</member><member name="M:Panther.frmLaboratorios.NumericValueChanged(System.Object,System.EventArgs)">
+	<summary>Try to avoid impossible first and last page parameters</summary>
+	<param name="sender"></param>
+	<param name="e"></param>
+</member><member name="M:Panther.frmLaboratorios.NewPDFCreated(System.Object,System.IO.FileSystemEventArgs)">
+	<summary>A new PDF was created in the directory transform it!</summary>
+	<param name="sender"></param><param name="e"></param>
+</member><member name="M:Panther.frmLaboratorios.ConvertToImage(System.Object,System.EventArgs)">
+	<summary>If is a single file convert it otherwise start the folder watcher</summary>
+	<param name="sender"></param><param name="e"></param>
+</member><member name="M:Panther.frmLaboratorios.ConvertSingleImage2(System.String)">
+	<summary>Convert a single file</summary>
+	<remarks>this function PRETEND that the filename is right!</remarks>
+</member><member name="M:Panther.cServidorInternet.sbInsertarEmpresa(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Boolean,System.String)">
+ V15
+
+</member><member name="P:Panther.My.RecursosSkins.Skins.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:Panther.My.RecursosSkins.Skins.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso con establecimiento inflexible de tipos.
+</summary>
+</member><member name="T:Panther.My.RecursosSkins.Skins">
+	<summary>
+  Clase de recurso con establecimiento inflexible de tipos, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="M:Panther.cActualizaciones.sbModificarTranDetalleHospitalizacion_V15">
+	<summary>
+ FUNCION TEMPORAL (HOSPITALIZACION)
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Panther.cActualizaciones.sbModificarRelAjustesInventario_V15">
+	<summary>
+ FUNCION TEMPORAL (RelAjustesInventario)
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Panther.cActualizaciones.sbModificaciones_V15">
+	<summary>
+ FUNCION TEMPORAL (TranDetalleAfiliado)
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Panther.cActualizaciones.sbModificacionesPromocion_V15">
+	<summary>
+ FUNCION TEMPORAL (TranCorreosPromociones)
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Panther.cActualizaciones.sbEliminarCatCiudad_V15">
+	<summary>
+ FUNCION PARA EJECUTAR EN LA FORMA DE CLAVES (CatCiudad)
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Panther.cActualizaciones.sbModificarTablaTranAgendaAddColums_V15">
+	<summary>
+ FUNCION PARA EJECUTAR EN LA FORMA DE CLAVES (CatCiudad)
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Panther.cActualizaciones.sbInsertarTipoServicios_V15">
+	<summary>
+ FUNCION TEMPORAL (sbInsertarTipoServicios)
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Panther.cActualizaciones.sbBorrar_CrearTranCentroNotificaciones_V15">
+	<summary>
+ FUNCION PARA EJECUTAR EN LA FORMA DE CLAVES (TEMPORAL)
+ </summary>
+ Eliminar cuando este funcional la 15
+ <remarks></remarks>
+</member><member name="M:Panther.cActualizaciones.sbModificarTablaTranPedidos_V15">
+	<summary>
+ FUNCION PARA MODIFICAR TranPedidos
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

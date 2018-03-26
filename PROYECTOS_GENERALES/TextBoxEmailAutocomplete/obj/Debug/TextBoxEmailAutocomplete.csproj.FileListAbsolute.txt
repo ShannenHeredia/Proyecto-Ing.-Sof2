@@ -1,0 +1,105 @@
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+D:\PERSONAL\PRUEBAS\Autocompleted\AUTOCOMPLETAR PRUEBAS\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+D:\PERSONAL\PRUEBAS\Autocompleted\AUTOCOMPLETAR PRUEBAS\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+D:\PERSONAL\PRUEBAS\Autocompleted\AUTOCOMPLETAR PRUEBAS\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+D:\PERSONAL\PRUEBAS\Autocompleted\AUTOCOMPLETAR PRUEBAS\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+D:\PERSONAL\PRUEBAS\Autocompleted\AUTOCOMPLETAR PRUEBAS\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+D:\PERSONAL\PRUEBAS\Autocompleted\AUTOCOMPLETAR PRUEBAS\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+D:\PERSONAL\PRUEBAS\Autocompleted\AUTOCOMPLETAR PRUEBAS\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\DOCTORES\DOLPHIN 1\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\DOCTORES\DOLPHIN 1\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\DOCTORES\DOLPHIN 1\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\DOCTORES\DOLPHIN 1\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+D:\DESARROLLO\DOCTORES\DOLPHIN 1\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+D:\DESARROLLO\DOCTORES\DOLPHIN 1\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\DOCTORES\DOLPHIN 1\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 13.5.1  SaaS - Desarrollo\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 13.5.1  SaaS - Desarrollo\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 13.5.1  SaaS - Desarrollo\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 13.5.1  SaaS - Desarrollo\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 13.5.1  SaaS - Desarrollo\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 13.5.1  SaaS - Desarrollo\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 13.5.1  SaaS - Desarrollo\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo - NEW\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo - NEW\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo - NEW\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo - NEW\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo - NEW\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo - NEW\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER WILD - 14  SaaS - Desarrollo - NEW\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - TERMINADO\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - TERMINADO\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - TERMINADO\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - TERMINADO\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - TERMINADO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - TERMINADO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - TERMINADO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - VENTA\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - VENTA\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - VENTA\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - VENTA\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - VENTA\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - VENTA\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 14 - VENTA\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+D:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+E:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+E:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+E:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+E:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+E:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+E:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+E:\DESARROLLO\VETERINARIAS\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+C:\DESARROLLO\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+C:\DESARROLLO\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+C:\DESARROLLO\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+C:\DESARROLLO\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+C:\DESARROLLO\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+C:\DESARROLLO\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+C:\DESARROLLO\PANTHER 15 - DESARROLLO\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+C:\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+\\vmware-host\Shared Folders\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\bin\Debug\TextBoxEmailAutocomplete.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\CustomControls.TextBoxEmailAutocomplete.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\PROYECTOS\PROYECTOS_GENERALES\TextBoxEmailAutocomplete\obj\Debug\TextBoxEmailAutocomplete.pdb

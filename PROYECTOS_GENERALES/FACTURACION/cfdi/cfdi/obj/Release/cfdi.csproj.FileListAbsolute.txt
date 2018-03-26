@@ -1,0 +1,14 @@
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\obj\Release\ResolveAssemblyReference.cache
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\bin\Release\detallista.xslt
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\bin\Release\divisas.xslt
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\bin\Release\donat.xslt
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\bin\Release\ecb.xslt
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\bin\Release\ecc.xslt
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\bin\Release\implocal.xslt
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\bin\Release\psgecfd.xslt
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\bin\Release\terceros.xslt
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\bin\Release\utilerias.xslt
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\bin\Release\cfdi.dll
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\bin\Release\cfdi.pdb
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\obj\Release\cfdi.dll
+C:\Users\fsandoval\documents\visual studio 2010\Projects\cfdi\cfdi\obj\Release\cfdi.pdb

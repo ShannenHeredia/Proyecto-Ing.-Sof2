@@ -1,0 +1,10 @@
+Z:\Descargas\RoundedTextbox\RoundedTextbox\bin\Release\RoundedTextbox.exe
+Z:\Descargas\RoundedTextbox\RoundedTextbox\bin\Release\RoundedTextbox.pdb
+Z:\Descargas\RoundedTextbox\RoundedTextbox\bin\Release\RoundedTextbox.xml
+Z:\Descargas\RoundedTextbox\RoundedTextbox\obj\Release\ResolveAssemblyReference.cache
+Z:\Descargas\RoundedTextbox\RoundedTextbox\obj\Release\RoundedTextbox.Form1.resources
+Z:\Descargas\RoundedTextbox\RoundedTextbox\obj\Release\RoundedTextbox.Resources.resources
+Z:\Descargas\RoundedTextbox\RoundedTextbox\obj\Release\RoundedTextbox.vbproj.GenerateResource.Cache
+Z:\Descargas\RoundedTextbox\RoundedTextbox\obj\Release\RoundedTextbox.exe
+Z:\Descargas\RoundedTextbox\RoundedTextbox\obj\Release\RoundedTextbox.xml
+Z:\Descargas\RoundedTextbox\RoundedTextbox\obj\Release\RoundedTextbox.pdb

@@ -1,0 +1,772 @@
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Bd\Panther.mdb
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Recursos\Skins.resx
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.exe.config
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.exe
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.pdb
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.xml
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\es-CL\Panther.resources.dll
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\es-MX\Panther.resources.dll
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfPageTools.dll
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfToImage.dll
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Sentinela.dll
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfSharp.dll
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Sentinela.pdb
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfPageTools.pdb
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfToImage.pdb
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Interop.JRO.dll
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\ResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Interop.JRO.dll
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.vbproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.Idioma_pt.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacienteCobra_Resp.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaProveedor.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCajaAbrir.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCirugia.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmEntradasSalidas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmInventarioSalidaInternas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmInventariosFaltantes.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacienteCobra.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmInventariosPedidos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmMenuCorreos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertasAviso.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCuentaCliente.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fCN_SinInternet.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fModificarCita.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCloudRegistro.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCloudRespaldo.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAgenda.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacienteKangaroo.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacientePanther.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAvatars_Panther.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fModificarCN.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fMessageBox.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fPacienteExistente.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm001_ConfigProvEstados.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm002_ConfigProveedores.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm003_ConfigProdGlobales.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm004_ConfigProdLocales.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm005_ConfigProveedoresExistencia.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm006_ConfigInventProv.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm00_ConfigProveedoresPais.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm01_TipoConfiguracion.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm02_TipoSistema.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm03_NuevoMedico.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm04_NuevoEmpresa.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm05_NuevoCorreo.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAcercaDe.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAddCitas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaMedico.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAvatars.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCatalogos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmClave.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertasMyPromotions.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertasPreview.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreoSettings.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmDesparacitacion.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmEmpresa.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmEnvioTicket.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmEsteticaBoard.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmEsteticaVisor.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmEstilistas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmHospitalizacion.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmInfograficas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmInicio.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmInformeMedico.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmMenuInventarios.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmPanelControl.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmLaboratorioPreview.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmLaboratorios.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmMiServicios.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmMisProductos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmBuscarPacientes.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmPrincipal.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmReportes.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmRespaldarBD.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fSeguridad.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmMenuConfiguraciones.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmSkin.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmVacunas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmVentaAlimento.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmVisorHospitalizacionPension.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.Resources.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.Skins.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstAdeudos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptAdeudosProximos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptAdeudosTotal.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptAdeudosVencidos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptAltaVoluntaria.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptCarnetBack.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptCarnetFrente.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstCertificadoMedico.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptContratoCirugia.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstCortes.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCortes.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCortesCuenta.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstEstadoCuentaCliente.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaAbonos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaCliente.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaCorte.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaLiquidada.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaProductos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstExpedientes.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptDesparasitacion.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptEctoparasitos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptEmpresaPie.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptInformeMedico.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptLaboratorios.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPaciente.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPacienteCertificado.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptVacunas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptCartaHospitalizacion.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptHospitalizacion.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptHospitalizacionCuenta.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptMedicamentosHosp.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptServiciosHosp.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptPedido.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstContratoPension.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptExpediente.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptReceta.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptConcentradoVentas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptComisionConsultas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptComisionEstilista.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstDetalleVentas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstDetalleVentasPanther.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptGastosFecha.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptPagosFecha.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptAlimentos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCirugias.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptConsultas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptEsteticas.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptExamenes.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptGastos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptHospitalizacion.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptOtrosServicios.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPagos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPreDesparasitacion.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPreEcto.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPreVacuna.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptProductos.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.ucK_HC.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.ucK_HCFH.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacientePanther.es-CL.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacientePanther.es-MX.resources
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.vbproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.exe.licenses
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\es-CL\Panther.resources.dll
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\es-MX\Panther.resources.dll
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.exe
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.xml
+\\vmware-host\Shared Folders\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\Bd\Panther.mdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\Recursos\Skins.resx
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\Panther.exe.config
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\Panther.exe.manifest
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\Panther.application
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\Panther.exe
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\Panther.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\Panther.xml
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\es-CL\Panther.resources.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\es-MX\Panther.resources.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\PdfPageTools.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\PdfToImage.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\Sentinela.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\PdfSharp.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\Sentinela.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\PdfPageTools.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\PdfToImage.pdb
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\bin\Debug\Interop.JRO.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Interop.JRO.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.vbproj.ResolveComReference.cache
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.Idioma_pt.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCajaAbrir.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCirugia.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCaja.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmAltaPacienteCobra.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmInventarios.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmMenuCorreos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCorreosOfertas.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCorreosOfertasAviso.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCuentaCliente.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.fCN_SinInternet.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.fModificarCita.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCloudRegistro.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCloudRespaldo.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmAgenda.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmAltaPacienteKangaroo.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmAltaPacientePanther.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmAvatars_Panther.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.fModificarCN.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.fMessageBox.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.fPacienteExistente.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm001_ConfigProvEstados.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm002_ConfigProveedores.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm003_ConfigProdGlobales.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm004_ConfigProdLocales.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm005_ConfigProveedoresExistencia.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm006_ConfigInventProv.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm00_ConfigProveedoresPais.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm01_TipoConfiguracion.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm02_TipoSistema.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm03_NuevoMedico.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm04_NuevoEmpresa.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frm05_NuevoCorreo.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmAcercaDe.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmAddCitas.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmAltaMedico.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmAvatars.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCatalogos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmClave.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCorreos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCorreosOfertasMyPromotions.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCorreosOfertasPreview.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmCorreoSettings.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmDesparacitacion.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmEmpresa.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmEnvioTicket.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmEsteticaVisor.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmEstilistas.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmHospitalizacion.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmInfograficas.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmInicio.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmInformeMedico.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmPanelControl.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmLaboratorioPreview.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmLaboratorios.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmMiServicios.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmMisProductos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmBuscarPacientes.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmPrincipal.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmReportes.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmRespaldarBD.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.fSeguridad.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmMenuConfiguraciones.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmSkin.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmVacunas.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmVentaAlimento.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmVisorHospitalizacionPension.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.Resources.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.Skins.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.mstAdeudos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptAdeudosProximos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptAdeudosTotal.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptAdeudosVencidos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptAltaVoluntaria.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptCarnetBack.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptCarnetFrente.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.mstCertificadoMedico.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptContratoCirugia.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.mstCortes.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptCortes.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptCortesCuenta.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.mstEstadoCuentaCliente.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptCuentaAbonos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptCuentaCliente.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptCuentaCorte.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptCuentaLiquidada.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptCuentaProductos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.mstExpedientes.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptDesparasitacion.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptEctoparasitos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptEmpresaPie.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptInformeMedico.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptLaboratorios.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptPaciente.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptPacienteCertificado.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptVacunas.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptCartaHospitalizacion.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptHospitalizacion.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptHospitalizacionCuenta.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptMedicamentosHosp.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptServiciosHosp.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptPedido.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.mstContratoPension.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptExpediente.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptReceta.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptConcentradoVentas.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptComisionConsultas.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptComisionEstilista.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.mstDetalleVentas.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.mstDetalleVentasPanther.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptGastosFecha.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.rptPagosFecha.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptAlimentos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptCirugias.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptConsultas.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptEsteticas.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptExamenes.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptGastos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptHospitalizacion.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptOtrosServicios.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptPagos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptPreDesparasitacion.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptPreEcto.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptPreVacuna.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.srptProductos.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmK_HC.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmAltaPacientePanther.es-CL.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.frmAltaPacientePanther.es-MX.resources
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.vbproj.GenerateResource.Cache
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.exe.licenses
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\es-CL\Panther.resources.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\es-MX\Panther.resources.dll
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.exe.manifest
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.application
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.exe
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.xml
+Z:\Documentos\DESARROLLO\SPARTA - 15\ALL\obj\Debug\Panther.pdb
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Recursos\Skins.resx
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.exe.config
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.exe.manifest
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.application
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.exe
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.pdb
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\es-CL\Panther.resources.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\es-MX\Panther.resources.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\MySql.Data.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfPageTools.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfToImage.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Sentinela.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfSharp.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Sentinela.pdb
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfPageTools.pdb
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfToImage.pdb
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Interop.JRO.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Interop.JRO.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.vbproj.ResolveComReference.cache
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.Idioma_pt.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmReportesVisor.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frm00_ConfiguracionInicial.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAddServicio.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCajaAbrir.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCirugia.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCaja.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacienteCobra.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmHospitalizacionVisor.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmInventarios.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmMenuCorreos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertasAviso.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCuentaCliente.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fCN_SinInternet.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fModificarCita.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCloudRegistro.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCloudRespaldo.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAgenda.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacienteKangaroo.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacientePanther.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAvatars_Panther.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fModificarCN.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fMessageBox.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fPacienteExistente.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAddCitas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaMedico.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAvatars.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCatalogos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmClave.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertasMyPromotions.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertasPreview.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreoSettings.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmDesparasitacion.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmEmpresa.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmEnvioTicket.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmEsteticaVisor.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmEstilistas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmHospitalizacion.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmInfograficas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmInicio.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmInformeMedico.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmPanelControl.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmLaboratorioPreview.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmLaboratorios.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmMiServicios.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmMisProductos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmBuscarPacientes.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmPrincipal.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmReportes.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmRespaldarBD.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.fSeguridad.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmMenuConfiguraciones.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmSkin.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmVacunas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmVentaAlimento.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.Resources.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.Skins.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstAdeudos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptAdeudosProximos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptAdeudosTotal.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptAdeudosVencidos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptAltaVoluntaria.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptCarnetBack.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptCarnetFrente.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstCertificadoMedico.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptContratoCirugia.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptPoliza.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptReciboPago.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstCortes.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCortes.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCortesCuenta.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstEstadoCuentaCliente.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaAbonos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaCliente.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaCorte.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaLiquidada.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaProductos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstExpedientes.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptDesparasitacion.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptEctoparasitos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptEmpresaPie.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptInformeMedico.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptLaboratorios.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPaciente.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPacienteCertificado.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptVacunas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptCartaHospitalizacion.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptHospitalizacion.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptHospitalizacionCuenta.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptMedicamentosHosp.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptServiciosHosp.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstAjustesInventario.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptPedido.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptAjustesInventario.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Accesorios.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Alimento.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_CA.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Desparasitaciones.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Ectoparasitos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Juguetes.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Limpieza.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Medicinas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Otros.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Ropa.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Vacunas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstContratoPension.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptExpediente.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptReceta.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstVentaTicket.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptConcentradoVentas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptComisionConsultas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptComisionEstilista.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstDetalleVentas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.mstDetalleVentasPanther.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptGastosFecha.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.rptPagosFecha.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptAlimentos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptCirugias.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptConsultas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptEsteticas.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptExamenes.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptGastos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptHospitalizacion.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptNuevosPacientes.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptOtrosServicios.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPagos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPreDesparasitacion.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPreEcto.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptPreVacuna.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.srptProductos.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmK_HC.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacientePanther.es-CL.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacientePanther.es-MX.resources
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.vbproj.GenerateResource.Cache
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.exe.licenses
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\es-CL\Panther.resources.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\es-MX\Panther.resources.dll
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.exe.manifest
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.application
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.exe
+Z:\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.pdb
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\Panther.exe.config
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Interop.JRO.dll
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.vbproj.ResolveComReference.cache
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.exe
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.pdb
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\Recursos\Skins.resx
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\Panther.exe.manifest
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\Panther.application
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\Panther.exe
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\Panther.pdb
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\es-CL\Panther.resources.dll
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\es-MX\Panther.resources.dll
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\PdfPageTools.dll
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\PdfToImage.dll
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\Sentinela.dll
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\PdfSharp.dll
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\Sentinela.pdb
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\PdfPageTools.pdb
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\PdfToImage.pdb
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\bin\Debug\Interop.JRO.dll
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\ResolveAssemblyReference.cache
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.Idioma_pt.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmReportesVisor.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frm00_ConfiguracionInicial.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmAddServicio.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCajaAbrir.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCirugia.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCaja.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacienteCobra.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmHospitalizacionVisor.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmInventarios.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmMenuCorreos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertasAviso.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCuentaCliente.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.fCN_SinInternet.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.fModificarCita.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCloudRegistro.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCloudRespaldo.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmAgenda.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacienteKangaroo.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacientePanther.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmAvatars_Panther.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.fModificarCN.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.fMessageBox.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.fPacienteExistente.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmAddCitas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaMedico.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmAvatars.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCatalogos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmClave.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertasMyPromotions.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreosOfertasPreview.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmCorreoSettings.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmDesparasitacion.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmEmpresa.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmEnvioTicket.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmEsteticaVisor.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmEstilistas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmHospitalizacion.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmInfograficas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmInicio.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmInformeMedico.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmPanelControl.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmLaboratorioPreview.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmLaboratorios.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmMiServicios.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmMisProductos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmBuscarPacientes.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmPrincipal.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmReportes.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmRespaldarBD.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.fSeguridad.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmMenuConfiguraciones.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmSkin.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmVacunas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmVentaAlimento.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.Resources.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.Skins.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.mstAdeudos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptAdeudosProximos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptAdeudosTotal.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptAdeudosVencidos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptAltaVoluntaria.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptCarnetBack.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptCarnetFrente.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.mstCertificadoMedico.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptContratoCirugia.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptPoliza.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptReciboPago.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.mstCortes.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptCortes.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptCortesCuenta.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.mstEstadoCuentaCliente.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaAbonos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaCliente.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaCorte.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaLiquidada.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptCuentaProductos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.mstExpedientes.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptDesparasitacion.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptEctoparasitos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptEmpresaPie.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptInformeMedico.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptLaboratorios.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptPaciente.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptPacienteCertificado.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptVacunas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptCartaHospitalizacion.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptHospitalizacion.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptHospitalizacionCuenta.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptMedicamentosHosp.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptServiciosHosp.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.mstAjustesInventario.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptPedido.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptAjustesInventario.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Accesorios.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Alimento.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_CA.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Desparasitaciones.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Ectoparasitos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Juguetes.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Limpieza.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Medicinas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Otros.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Ropa.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptRAI_Vacunas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.mstContratoPension.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptExpediente.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptReceta.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.mstVentaTicket.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptConcentradoVentas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptComisionConsultas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptComisionEstilista.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.mstDetalleVentas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.mstDetalleVentasPanther.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptGastosFecha.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.rptPagosFecha.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptAlimentos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptCirugias.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptConsultas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptEsteticas.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptExamenes.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptGastos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptHospitalizacion.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptNuevosPacientes.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptOtrosServicios.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptPagos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptPreDesparasitacion.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptPreEcto.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptPreVacuna.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.srptProductos.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmK_HC.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacientePanther.es-CL.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.frmAltaPacientePanther.es-MX.resources
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.vbproj.GenerateResource.Cache
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.exe.licenses
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\es-CL\Panther.resources.dll
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\es-MX\Panther.resources.dll
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.exe.manifest
+Z:\Documentos\BRIAN_DESARROLLO\DESARROLLO\SPARTA-15\PROYECTOS\ALL\obj\Debug\Panther.application
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.exe.config
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Interop.JRO.dll
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.vbproj.ResolveComReference.cache
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.pdb
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.exe.manifest
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.application
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.exe
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Panther.pdb
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfPageTools.dll
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfToImage.dll
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Sentinela.dll
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfSharp.dll
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Sentinela.pdb
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfPageTools.pdb
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\PdfToImage.pdb
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\bin\Debug\Interop.JRO.dll
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.Idioma_pt.resources
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmPrincipal.resources
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.Resources.resources
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.Skins.resources
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.exe.licenses
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.exe.manifest
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.application
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.exe
+C:\Users\Lenovo\Documents\DESARROLLO\SPARTA - 15\PROYECTOS\ALL\obj\Debug\Panther.frmAlta.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\ControlAsistencias.exe.config
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\ControlAsistencias.exe.manifest
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\ControlAsistencias.application
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\ControlAsistencias.exe
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\ControlAsistencias.pdb
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\PdfPageTools.dll
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\PdfToImage.dll
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\Sentinela.dll
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\PdfSharp.dll
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\Sentinela.pdb
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\PdfPageTools.pdb
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\PdfToImage.pdb
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\Interop.JRO.dll
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\Interop.JRO.dll
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\Panther.vbproj.ResolveComReference.cache
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.Idioma_pt.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.frmCarreras.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.frmDivision.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.frmAltaProfesor.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.fMessageBox.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.frmReportes.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.frmAsistencias.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.frmAlumnosVisor.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.frmAltaGrupos.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.frmAlta.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.frmBuscarPacientes.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.frmPrincipal.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.Resources.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.Skins.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.rptAlumnos.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.rptDiario.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.rptGrupos.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.rptSemestral.resources
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\Panther.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.exe.licenses
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.exe.manifest
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.application
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.exe
+C:\Users\Lenovo\Documents\BRIAN BERNAL\INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.pdb
+D:\00_BRIAN_BERNAL\00_INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\bin\Debug\ControlAsistencias.exe.config
+D:\00_BRIAN_BERNAL\00_INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\Interop.JRO.dll
+D:\00_BRIAN_BERNAL\00_INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\Panther.vbproj.ResolveComReference.cache
+D:\00_BRIAN_BERNAL\00_INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.exe
+D:\00_BRIAN_BERNAL\00_INFORMATICA_CUCEI\4_CUARTO\ING_SOFTWARE\ALL\obj\Debug\ControlAsistencias.pdb
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\ControlAsistencias.exe.config
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\Interop.JRO.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\Panther.vbproj.ResolveComReference.cache
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.exe
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.pdb
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\ControlAsistencias.exe.manifest
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\ControlAsistencias.application
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\ControlAsistencias.exe
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\ControlAsistencias.pdb
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevExpress.Charts.v9.2.Core.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevExpress.Data.v9.2.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevExpress.Utils.v9.2.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevExpress.XtraBars.v9.2.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevExpress.XtraCharts.v9.2.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevExpress.XtraEditors.v9.2.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevExpress.XtraPivotGrid.v9.2.Core.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevExpress.XtraPivotGrid.v9.2.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevExpress.XtraPrinting.v9.2.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevExpress.XtraReports.v9.2.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\DevExpress.XtraTreeList.v9.2.Design.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\PdfPageTools.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\PdfToImage.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\Sentinela.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\PdfSharp.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\Sentinela.pdb
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\PdfPageTools.pdb
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\PdfToImage.pdb
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\bin\Debug\Interop.JRO.dll
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.Idioma_pt.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.frmPersonas.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.frmCarreras.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.frmDivision.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.frmAltaProfesor.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.fMessageBox.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.frmReportes.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.frmAsistencias.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.frmAlumnosVisor.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.frmAltaGrupos.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.frmAlta.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.frmBuscarPacientes.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.frmPrincipal.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.Resources.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.Skins.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.rptAlumnos.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.rptDiario.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.rptGrupos.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.rptSemestral.resources
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\Panther.vbproj.GenerateResource.Cache
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.exe.licenses
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.exe.manifest
+C:\Users\Pepe\Desktop\Pryoyecto INGSFTW\PROYECTO\ALL\obj\Debug\ControlAsistencias.application

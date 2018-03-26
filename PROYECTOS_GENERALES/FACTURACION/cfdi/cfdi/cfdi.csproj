@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{46C20329-A42A-48F1-9C6C-43616D1E45D6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>cfdi</RootNamespace>
+    <AssemblyName>cfdi</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IPAC.cs" />
+    <Compile Include="PACSolucionFcatible.cs" />
+    <Compile Include="ParametrosTimbrado.cs" />
+    <Compile Include="RegimenFiscal.cs" />
+    <Compile Include="Comprobante.cs" />
+    <Compile Include="ComprobanteFiscalDigitalException.cs" />
+    <Compile Include="Concepto.cs" />
+    <Compile Include="CuentaPredial.cs" />
+    <Compile Include="Domicilio.cs" />
+    <Compile Include="DomicilioFiscal.cs" />
+    <Compile Include="Emisor.cs" />
+    <Compile Include="ExpedidoEn.cs" />
+    <Compile Include="Impuestos.cs" />
+    <Compile Include="InformacionAduanera.cs" />
+    <Compile Include="InformeMensual.cs" />
+    <Compile Include="opensslkey.cs" />
+    <Compile Include="Parte.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="PropertyAttribute.cs" />
+    <Compile Include="Receptor.cs" />
+    <Compile Include="ResourceString.cs" />
+    <Compile Include="Resultado.cs" />
+    <Compile Include="Retencion.cs" />
+    <Compile Include="Service References\PACs.SolucionFactible\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Traslado.cs" />
+    <Compile Include="Ubicacion.cs" />
+    <Compile Include="Utilities.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cadenaoriginal_3_2.xslt">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="cfdv3_2.xsd">
+      <SubType>
+      </SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="detallista.xslt" />
+    <EmbeddedResource Include="divisas.xslt" />
+    <EmbeddedResource Include="donat.xslt" />
+    <EmbeddedResource Include="ecb.xslt" />
+    <EmbeddedResource Include="ecc.xslt" />
+    <EmbeddedResource Include="implocal.xslt" />
+    <EmbeddedResource Include="psgecfd.xslt" />
+    <EmbeddedResource Include="terceros.xslt" />
+    <EmbeddedResource Include="utilerias.xslt" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Service References\PACs.SolucionFactible\cfdi.PACs.SolucionFactible.CFDICancelacion.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\PACs.SolucionFactible\cfdi.PACs.SolucionFactible.CFDICertificacion.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\PACs.SolucionFactible\cfdi.PACs.SolucionFactible.CFDIResultadoCertificacion.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Service References\PACs.SolucionFactible\Timbrado.wsdl" />
+    <EmbeddedResource Include="tfd.xsd">
+      <SubType>
+      </SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\PACs.SolucionFactible\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\PACs.SolucionFactible\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\PACs.SolucionFactible\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Service References\PACs.SolucionFactible\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="tfd.xslt" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

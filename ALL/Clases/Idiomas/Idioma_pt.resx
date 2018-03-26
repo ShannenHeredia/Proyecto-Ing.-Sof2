@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Boton_Agregar" xml:space="preserve">
+    <value>&amp;Agregar</value>
+  </data>
+  <data name="Boton_Borrar" xml:space="preserve">
+    <value>&amp;Borrar</value>
+  </data>
+  <data name="Boton_Cerrar" xml:space="preserve">
+    <value>&amp;Cerrar</value>
+  </data>
+  <data name="Boton_Configurar_Correo" xml:space="preserve">
+    <value>&amp;Configurar</value>
+  </data>
+  <data name="Boton_Consultar" xml:space="preserve">
+    <value>&amp;Consultar</value>
+  </data>
+  <data name="Boton_Enviar_Correo" xml:space="preserve">
+    <value>&amp;Envíar:</value>
+  </data>
+  <data name="Boton_Exportar_Imagen" xml:space="preserve">
+    <value>&amp;Exportar</value>
+  </data>
+  <data name="Boton_Guardar" xml:space="preserve">
+    <value>&amp;Guardar</value>
+  </data>
+  <data name="Boton_Imagen" xml:space="preserve">
+    <value>&amp;Imagen</value>
+  </data>
+  <data name="Boton_Mensaje_Aceptar" xml:space="preserve">
+    <value>&amp;Aceptar</value>
+  </data>
+  <data name="Boton_Mensaje_Cancelar" xml:space="preserve">
+    <value>&amp;Cancelar</value>
+  </data>
+  <data name="Boton_Mensaje_Eliminar" xml:space="preserve">
+    <value>&amp;Eliminar</value>
+  </data>
+  <data name="Boton_Mensaje_No" xml:space="preserve">
+    <value>&amp;No</value>
+  </data>
+  <data name="Boton_Mensaje_Salir" xml:space="preserve">
+    <value>&amp;Salir</value>
+  </data>
+  <data name="Boton_Mensaje_Si" xml:space="preserve">
+    <value>&amp;Si</value>
+  </data>
+  <data name="Boton_Modificar" xml:space="preserve">
+    <value>&amp;Modificar</value>
+  </data>
+  <data name="Boton_Nuevo" xml:space="preserve">
+    <value>&amp;Nuevo</value>
+  </data>
+  <data name="Boton_Programar_Correo" xml:space="preserve">
+    <value>&amp;Programar</value>
+  </data>
+  <data name="Boton_Receta" xml:space="preserve">
+    <value>&amp;Receta</value>
+  </data>
+  <data name="Boton_Servicios_Alimentos" xml:space="preserve">
+    <value>&amp;Alimentos</value>
+  </data>
+  <data name="Boton_Servicios_Consultas" xml:space="preserve">
+    <value>&amp;Consultas</value>
+  </data>
+  <data name="Boton_Servicios_Desparasitacion" xml:space="preserve">
+    <value>&amp;Desparasitación</value>
+  </data>
+  <data name="Boton_Servicios_Ectos" xml:space="preserve">
+    <value>Ec&amp;toparásitos</value>
+  </data>
+  <data name="Boton_Servicios_Estetica" xml:space="preserve">
+    <value>&amp;Estética</value>
+  </data>
+  <data name="Boton_Servicios_Otros" xml:space="preserve">
+    <value>&amp;Otros</value>
+  </data>
+  <data name="Boton_Servicios_Vacunas" xml:space="preserve">
+    <value>&amp;Vacunas</value>
+  </data>
+  <data name="Boton_Ver_Imagen" xml:space="preserve">
+    <value>&amp;Ver</value>
+  </data>
+  <data name="Etiqueta_Dueño_Mas_Mascotas" xml:space="preserve">
+    <value>&amp;Dueño con más mascotas:</value>
+  </data>
+  <data name="Forma_Acerca_De" xml:space="preserve">
+    <value>Información</value>
+  </data>
+  <data name="Forma_Agenda" xml:space="preserve">
+    <value>Agenda</value>
+  </data>
+  <data name="Forma_Alta_Medico" xml:space="preserve">
+    <value>Alta del médico</value>
+  </data>
+  <data name="Forma_Alta_Paciente" xml:space="preserve">
+    <value>Alta del paciente</value>
+  </data>
+  <data name="Forma_Catalogos_Color" xml:space="preserve">
+    <value>Colores</value>
+  </data>
+  <data name="Forma_Catalogos_Especie" xml:space="preserve">
+    <value>Especies y razas</value>
+  </data>
+  <data name="Forma_Citas" xml:space="preserve">
+    <value>Citas</value>
+  </data>
+  <data name="Forma_Correos_Citas" xml:space="preserve">
+    <value>Envío de citas</value>
+  </data>
+  <data name="Forma_Correos_Configuracion" xml:space="preserve">
+    <value>Configuración</value>
+  </data>
+  <data name="Forma_Correos_Ofertas" xml:space="preserve">
+    <value>Ofertas</value>
+  </data>
+  <data name="Forma_Desparasitacion" xml:space="preserve">
+    <value>Desparasitación</value>
+  </data>
+  <data name="Forma_Ectos" xml:space="preserve">
+    <value>Ectoparásitos</value>
+  </data>
+  <data name="Forma_Empresa" xml:space="preserve">
+    <value>Clínica</value>
+  </data>
+  <data name="Forma_Estetica_General" xml:space="preserve">
+    <value>Estéticas</value>
+  </data>
+  <data name="Forma_Estilistas" xml:space="preserve">
+    <value>Estilistas</value>
+  </data>
+  <data name="Forma_Inicio_Perfil" xml:space="preserve">
+    <value>Perfil</value>
+  </data>
+  <data name="Forma_Nuevo_Correo" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Forma_Nuevo_Medico" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Forma_Tipo_Configuracion" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Forma_Tipo_Sistema" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Forma_Vacunas" xml:space="preserve">
+    <value>Vacunas</value>
+  </data>
+  <data name="Option_Correo_Enviado" xml:space="preserve">
+    <value>&amp;Enviados</value>
+  </data>
+  <data name="Option_Correo_Gmail" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Option_Correo_Otro" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Option_Correo_Outlook" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Option_Correo_Por_Enviar" xml:space="preserve">
+    <value>&amp;Por envíar:</value>
+  </data>
+  <data name="Option_Correo_Yahoo" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Option_Dia" xml:space="preserve">
+    <value>&amp;Día</value>
+  </data>
+  <data name="Option_Mascota" xml:space="preserve">
+    <value>&amp;Mascota</value>
+  </data>
+  <data name="Option_Mes" xml:space="preserve">
+    <value>&amp;Mes</value>
+  </data>
+  <data name="Option_Propietario_Apellido" xml:space="preserve">
+    <value>&amp;Apellido</value>
+  </data>
+  <data name="Option_Propietario_Nombre" xml:space="preserve">
+    <value>&amp;Nombre</value>
+  </data>
+  <data name="Option_Propietario_Telefono" xml:space="preserve">
+    <value>&amp;Teléfono</value>
+  </data>
+  <data name="Option_Raza" xml:space="preserve">
+    <value>&amp;Raza</value>
+  </data>
+  <data name="Option_Semana" xml:space="preserve">
+    <value>&amp;Semana</value>
+  </data>
+  <data name="Paciente_Color" xml:space="preserve">
+    <value>&amp;Color:</value>
+  </data>
+  <data name="Paciente_Especie" xml:space="preserve">
+    <value>&amp;Especie:</value>
+  </data>
+  <data name="Paciente_Fecha_Nac" xml:space="preserve">
+    <value>&amp;Fecha nac.:</value>
+  </data>
+  <data name="Paciente_Foto" xml:space="preserve">
+    <value>Fo&amp;to:</value>
+  </data>
+  <data name="Paciente_Grid_Color" xml:space="preserve">
+    <value>Color</value>
+  </data>
+  <data name="Paciente_Grid_Especie" xml:space="preserve">
+    <value>Especie</value>
+  </data>
+  <data name="Paciente_Grid_Fecha_Nac" xml:space="preserve">
+    <value>Fecha Nac.</value>
+  </data>
+  <data name="Paciente_Grid_Foto" xml:space="preserve">
+    <value>Foto</value>
+  </data>
+  <data name="Paciente_Grid_Nombre" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="Paciente_Grid_Observacion" xml:space="preserve">
+    <value>Observacion</value>
+  </data>
+  <data name="Paciente_Grid_Raza" xml:space="preserve">
+    <value>Raza</value>
+  </data>
+  <data name="Paciente_Grid_Sexo" xml:space="preserve">
+    <value>Sexo</value>
+  </data>
+  <data name="Paciente_Nombre" xml:space="preserve">
+    <value>&amp;Nombre:</value>
+  </data>
+  <data name="Paciente_Observacion" xml:space="preserve">
+    <value>&amp;Observación:</value>
+  </data>
+  <data name="Paciente_Raza" xml:space="preserve">
+    <value>&amp;Raza:</value>
+  </data>
+  <data name="Paciente_Sexo" xml:space="preserve">
+    <value>&amp;Sexo:</value>
+  </data>
+  <data name="Propietario_Colonia" xml:space="preserve">
+    <value>&amp;Colonia:</value>
+  </data>
+  <data name="Propietario_Correo" xml:space="preserve">
+    <value>Co&amp;rreo:</value>
+  </data>
+  <data name="Propietario_CP" xml:space="preserve">
+    <value>&amp;C.P.:</value>
+  </data>
+  <data name="Propietario_Direccion" xml:space="preserve">
+    <value>&amp;Dirección:</value>
+  </data>
+  <data name="Propietario_Grid_Colonia" xml:space="preserve">
+    <value>Colonia</value>
+  </data>
+  <data name="Propietario_Grid_Correo" xml:space="preserve">
+    <value>Correo</value>
+  </data>
+  <data name="Propietario_Grid_CP" xml:space="preserve">
+    <value>C.P.</value>
+  </data>
+  <data name="Propietario_Grid_Direccion" xml:space="preserve">
+    <value>Dirección</value>
+  </data>
+  <data name="Propietario_Grid_Materno" xml:space="preserve">
+    <value>Materno</value>
+  </data>
+  <data name="Propietario_Grid_Nombre" xml:space="preserve">
+    <value>Nombre</value>
+  </data>
+  <data name="Propietario_Grid_Paterno" xml:space="preserve">
+    <value>Paterno</value>
+  </data>
+  <data name="Propietario_Grid_Tel" xml:space="preserve">
+    <value>Teléfono</value>
+  </data>
+  <data name="Propietario_Grid_Tel2" xml:space="preserve">
+    <value>Tel 2.</value>
+  </data>
+  <data name="Propietario_Materno" xml:space="preserve">
+    <value>A. &amp;Materno:</value>
+  </data>
+  <data name="Propietario_Nombre" xml:space="preserve">
+    <value>No&amp;mbre:</value>
+  </data>
+  <data name="Propietario_Paterno" xml:space="preserve">
+    <value>A. &amp;Paterno:</value>
+  </data>
+  <data name="Propietario_Tel" xml:space="preserve">
+    <value>&amp;Tel:</value>
+  </data>
+  <data name="Propietario_Tel2" xml:space="preserve">
+    <value>T&amp;el2:</value>
+  </data>
+  <data name="Titulo_Dueño" xml:space="preserve">
+    <value>Dueño</value>
+  </data>
+  <data name="Titulo_Mascota" xml:space="preserve">
+    <value>Mascota</value>
+  </data>
+  <data name="_________LABELS_____________" xml:space="preserve">
+    <value>_________LABELS_____________</value>
+  </data>
+  <data name="___________GRIDS_______________" xml:space="preserve">
+    <value>___________GRIDS_______________</value>
+  </data>
+  <data name="____________FORMAS_SUB_TITULOS_____________" xml:space="preserve">
+    <value>____________FORMAS_SUB_TITULOS_____________</value>
+  </data>
+  <data name="_____________FORMAS_TITULOS________________" xml:space="preserve">
+    <value>_____________FORMAS_TITULOS________________</value>
+  </data>
+  <data name="_______________OPTIONS________________" xml:space="preserve">
+    <value>_______________OPTIONS________________</value>
+  </data>
+  <data name="________________BOTONES_____________________" xml:space="preserve">
+    <value>________________BOTONES_____________________</value>
+  </data>
+</root>

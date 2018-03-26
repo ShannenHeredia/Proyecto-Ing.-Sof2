@@ -1,0 +1,7 @@
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\obj\Release\ResolveAssemblyReference.cache
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\obj\Release\TextBoxEmailAutocomplete.csproj.GenerateResource.Cache
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\obj\Release\CustomControls.TextBoxEmailAutocomplete.resources
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\bin\Release\TextBoxEmailAutocomplete.dll
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\bin\Release\TextBoxEmailAutocomplete.pdb
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\obj\Release\TextBoxEmailAutocomplete.dll
+D:\PERSONAL\PRUEBAS\Autocompleted\email_auto\TextBoxEmailAutocomplete\obj\Release\TextBoxEmailAutocomplete.pdb
